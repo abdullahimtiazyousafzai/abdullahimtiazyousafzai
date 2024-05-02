@@ -4,10 +4,10 @@
 
 <hr>
 
-Hi, My Name is <strong>Muhammad Abdullah</strong>,
+### Hi, I'm Muhammad Abdullah!
 
+I'm currently pursuing a bachelor's degree in Cyber Security at Ghulam Ishaq Khan Institute, one of Pakistan's leading universities for Computer Science and Engineering. My skills include proficiency in C/C++, Python, and bash scripting. I have a keen interest in cybersecurity, app development, and exploring various operating systems like Windows 10, Windows 11, and Linux. I enjoy collaborating with like-minded individuals, sharing my learning resources, and showcasing my projects.
 
-I am a student at one of Pakistan's leading Computer Science and Engineering University <strong> Ghulam Ishaq Khan Institute </strong> pursuing a bachelor's degree in Cyber Security. Proficient in C/C++, Python, and bash. I'm passionate about cybersecurity, development, and exploring different <strong> Operating Systems </strong> ie(Windows 10, Windows 11, and Linux). I use this platform to collaborate with like-minded individuals, share my learning materials for new skills, and showcase the projects I've developed.
 
 <div align="center">
 
@@ -16,7 +16,7 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 <strong> You can reach me at: </strong> 
 <p> <strong>📫 abdullahimtiazyousafzai@gmail.com </strong> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-ali-bukhari) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdullah-4576b8254) 
 
 <hr>
 
