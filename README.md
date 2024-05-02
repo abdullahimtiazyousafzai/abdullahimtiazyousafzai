@@ -6,7 +6,7 @@
 
 ### Hi, I'm Muhammad Abdullah!
 
-I'm currently pursuing a bachelor's degree in Cyber Security at Ghulam Ishaq Khan Institute, one of Pakistan's leading universities for Computer Science and Engineering. My skills include proficiency in C/C++, Python, and bash scripting. I have a keen interest in cybersecurity, app development, and exploring various operating systems like Windows 10, Windows 11, and Linux. I enjoy collaborating with like-minded individuals, sharing my learning resources, and showcasing my projects.
+I'm currently pursuing a bachelor's degree in Cyber Security at Ghulam Ishaq Khan Institute, one of Pakistan's leading universities for Computer Science and Engineering. I have a strong proficiency in C/C++, Python, and bash scripting. Additionally, I am skilled in using Linux operating systems, including Kali Linux and Ubuntu, for cybersecurity tasks. My interests span cybersecurity, application development, and exploring various operating systems like Windows 10, Windows 11, and Linux. I enjoy collaborating with like-minded individuals, sharing my learning resources, and showcasing my projects using tools such as Nmap, Wireshark, and Metasploit.
 
 
 <div align="center">
