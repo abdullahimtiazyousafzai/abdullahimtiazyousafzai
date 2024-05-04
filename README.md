@@ -29,6 +29,7 @@ I'm currently pursuing a bachelor's degree in Cyber Security at Ghulam Ishaq Kha
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </em>
 
+
 <h4> <strong>Databases I Have Worked On:</strong> </h4>
 <em>
 <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
