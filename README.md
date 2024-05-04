@@ -62,7 +62,9 @@ I'm currently pursuing a bachelor's degree in Cyber Security at Ghulam Ishaq Kha
 <hr>
 <h5 style="font-size: 16px;"><strong>My GitHub Stats:</strong></h5>
 
-
+![abdullahimtiazyousafzai's Stats](https://github-readme-stats.vercel.app/api?username=abdullahimtiazyousafzai&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![abdullahimtiazyousafzai's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullahimtiazyousafzai&theme=vue-dark&hide_border=true)
+![abdullahimtiazyousafzai's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahimtiazyousafzai&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <hr>
 
